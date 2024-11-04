@@ -36,7 +36,7 @@ src="https://img.shields.io/github/followers/daniellg01?logo=github&style=for-th
 <b>Top Repositories</b>
 
 <div width="100%" align="center"><a href="https://github.com/daniellg01/brain_tumor_clasification" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=daniellg01&repo=brain_tumor_clasification&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/daniellg01/iris-classification-kdd" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=daniellg01&repo=iris-classification-kdd&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br />
-
 <br />
-
+<br />
+<br />
 <div width="100%" align="center"><a href="https://github.com/daniellg01/ia-brain" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=daniellg01&repo=ia-brain&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/daniellg01/IA_CATS_VS_DOGS" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=daniellg01&repo=IA_CATS_VS_DOGS&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
