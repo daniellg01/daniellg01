@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Fullstack web developer
 -----------------------
 
-a passionate Computer Science Engineer from Havana, Cuba, and a dedicated final-year student at the University of Computer Sciences with a GPA of 4.90. I have a proven track record in software development, with expertise in hybrid mobile applications, full-stack web development, and competitive programming.
+a passionate Computer Science Engineer from Havana, Cuba, and a dedicated final-year student at the University of Computer Sciences. I have a proven track record in software development, with expertise in hybrid mobile applications, full-stack web development, and competitive programming.
 
 * 🌍  I'm based in Havana, Cuba
 * ✉️  You can contact me at [lozanodevelopment01@gmail.com](mailto:lozanodevelopment01@gmail.com)
