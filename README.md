@@ -2,7 +2,7 @@
 
 ## Fullstack web developer
 
-a passionate Computer Science Engineer from Havana, Cuba, and a dedicated final-year student at the University of Computer Sciences. I have a proven track record in software development, with expertise in hybrid mobile applications, full-stack web development, and competitive programming.
+A passionate Computer Science Engineer from Havana, Cuba, with a proven track record in software development. I specialize in hybrid mobile applications, full-stack web development, and competitive programming, continuously seeking innovative solutions and new challenges in the tech industry.
 
 - 🌍  I'm based in Havana, Cuba
 - ✉️  You can contact me at [lozanodevelopment01@gmail.com](mailto:lozanodevelopment01@gmail.com)
