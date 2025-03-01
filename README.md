@@ -1,36 +1,106 @@
-# Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Daniel Lozano
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=FF4949&center=true&vCenter=true&random=false&width=435&lines=Hi%2C+I'm+Daniel+Lozano+%F0%9F%91%8B;Fullstack+Developer;AI+Enthusiast" alt="Typing SVG" />
+</div>
 
-## Fullstack web developer
+<div align="center">
+  <img src="https://img.shields.io/badge/Based_in-Havana,_Cuba-FF4949?style=for-the-badge&logo=google-maps&logoColor=white" />
+  <a href="mailto:lozanodevelopment01@gmail.com">
+    <img src="https://img.shields.io/badge/Contact_Me-Email-FF4949?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/daniellg01">
+    <img src="https://img.shields.io/github/followers/daniellg01?logo=github&style=for-the-badge&color=FF4949&labelColor=1c1917" />
+  </a>
+</div>
+
+<br/>
+
+## About Me
 
 A passionate Computer Science Engineer from Havana, Cuba, with a proven track record in software development. I specialize in hybrid mobile applications, full-stack web development, and competitive programming, continuously seeking innovative solutions and new challenges in the tech industry.
 
-- 🌍  I'm based in Havana, Cuba
-- ✉️  You can contact me at [lozanodevelopment01@gmail.com](mailto:lozanodevelopment01@gmail.com)
-- 🤝  I'm open to collaborating on Projects focused on open-source web applications and AI that benefit the community. I’m eager to contribute to initiatives that advance AI-driven solutions, allowing me to enhance my skills while giving back to the tech community.
-- ⚡  📫 Feel free to reach out or check out my repositories to see some of my work in action!
+- 🌍 Based in Havana, Cuba
+- 💼 Fullstack Web Developer
+- 🤝 Open to collaborating on open-source web applications and AI projects
+- 📫 Reach me at [lozanodevelopment01@gmail.com](mailto:lozanodevelopment01@gmail.com)
+- ⚡ Always learning and growing in tech
 
-<a href="https://www.github.com/daniellg01" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/daniellg01?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+## 🛠 Skills & Technologies
 
-### Skills
+<div align="center">
+  <h3>Frontend Development</h3>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
 
-<p align="left">
-          <arel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" padding="2" width="62" height="62" alt="REACT" /></a>
-<a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" padding="2" width="62" height="62" alt="PHP" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" padding="2" width="62" height="62" alt="Git" /></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" padding="2" width="62" height="62" alt="TypeScript" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" padding="2" width="62" height="62" alt="JavaScript" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" padding="2" width="62" height="62" alt="Python" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" padding="2" width="62" height="62" alt="VS Code" /></a><a href="https://angular.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angularjs-colored.svg" padding="2" width="62" height="62" alt="Angular" /></a><a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" padding="2" width="62" height="62" alt="Vue" /></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" padding="2" width="62" height="62" alt="Bootstrap" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" padding="2" width="62" height="62" alt="TailwindCSS" /></a><a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" padding="2" width="62" height="62" alt="Sass" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" padding="2" width="62" height="62" alt="CSS3" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" padding="2" width="62" height="62" alt="HTML5" /></a><a href="https://jquery.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" padding="2" width="62" height="62" alt="JQuery" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" padding="2" width="62" height="62" alt="NodeJS" /></a><a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" padding="2" width="62" height="62" alt="Express" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" padding="2" width="62" height="62" alt="MySQL" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" padding="2" width="62" height="62" alt="PostgreSQL" /></a><a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" padding="2" width="62" height="62" alt="Firebase" /></a><a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" padding="2" width="62" height="62" alt="Photoshop" /></a><a href="https://www.adobe.com/uk/products/aftereffects.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aftereffects-colored.svg" padding="2" width="62" height="62" alt="After Effects" /></a><a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" padding="2" width="62" height="62" alt="Google Cloud" /></a><a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" padding="2" width="62" height="62" alt="Laravel" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" padding="2" width="62" height="62" alt="Docker" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" padding="2" width="62" height="62" alt="Linux" /></a><a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg" padding="2" width="62" height="62" alt="TensorFlow" /></a>
-</p>
+  <h3>Backend Development</h3>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 
-### Socials
+  <h3>Database & Cloud</h3>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
 
-<p align="left"> <a href="https://www.github.com/daniellg01" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a></p>
+  <h3>Tools & Others</h3>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+</div>
 
-### Top Repositories
+## 🏆 Featured Projects
 
-<div width="100%" align="center">
-          <a href="https://github.com/daniellg01/brain_tumor_clasification" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=daniellg01&repo=brain_tumor_clasification&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
-  <a href="https://github.com/daniellg01/iris-classification-kdd" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=daniellg01&repo=iris-classification-kdd&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
-    
-  </div><br /><br />
-<div width="100%" align="center">
-  <a href="https://github.com/daniellg01/ia-brain" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=daniellg01&repo=ia-brain&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
-  <a href="https://github.com/daniellg01/IA_CATS_VS_DOGS" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=daniellg01&repo=IA_CATS_VS_DOGS&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
+<div align="center">
+  <a href="https://github.com/daniellg01/brain_tumor_clasification">
+    <img align="center" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=daniellg01&repo=brain_tumor_clasification&title_color=FF4949&text_color=ffffff&icon_color=FF4949&bg_color=1c1917&hide_border=true&locale=en" />
+  </a>
+  <a href="https://github.com/daniellg01/iris-classification-kdd">
+    <img align="center" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=daniellg01&repo=iris-classification-kdd&title_color=FF4949&text_color=ffffff&icon_color=FF4949&bg_color=1c1917&hide_border=true&locale=en" />
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <a href="https://github.com/daniellg01/ia-brain">
+    <img align="center" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=daniellg01&repo=ia-brain&title_color=FF4949&text_color=ffffff&icon_color=FF4949&bg_color=1c1917&hide_border=true&locale=en" />
+  </a>
+  <a href="https://github.com/daniellg01/IA_CATS_VS_DOGS">
+    <img align="center" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=daniellg01&repo=IA_CATS_VS_DOGS&title_color=FF4949&text_color=ffffff&icon_color=FF4949&bg_color=1c1917&hide_border=true&locale=en" />
+  </a>
+</div>
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=daniellg01&stroke=ffffff&background=1c1917&ring=FF4949&fire=FF4949&currStreakNum=ffffff&currStreakLabel=FF4949&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=daniellg01&bg_color=1c1917&color=ffffff&line=FF4949&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" />
+</div>
+
+## 🤝 Connect With Me
+
+<div align="center">
+  <a href="https://github.com/daniellg01">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="mailto:lozanodevelopment01@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=daniellg01&color=FF4949&style=flat-square&label=Profile+Views" />
 </div>
