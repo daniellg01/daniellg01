@@ -58,28 +58,6 @@ A passionate Computer Science Engineer from Havana, Cuba, with a proven track re
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </div>
 
-## 🏆 Featured Projects
-
-<div align="center">
-  <a href="https://github.com/daniellg01/brain_tumor_clasification">
-    <img align="center" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=daniellg01&repo=brain_tumor_clasification&title_color=FF4949&text_color=ffffff&icon_color=FF4949&bg_color=1c1917&hide_border=true&locale=en" />
-  </a>
-  <a href="https://github.com/daniellg01/iris-classification-kdd">
-    <img align="center" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=daniellg01&repo=iris-classification-kdd&title_color=FF4949&text_color=ffffff&icon_color=FF4949&bg_color=1c1917&hide_border=true&locale=en" />
-  </a>
-</div>
-
-<br/>
-
-<div align="center">
-  <a href="https://github.com/daniellg01/ia-brain">
-    <img align="center" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=daniellg01&repo=ia-brain&title_color=FF4949&text_color=ffffff&icon_color=FF4949&bg_color=1c1917&hide_border=true&locale=en" />
-  </a>
-  <a href="https://github.com/daniellg01/IA_CATS_VS_DOGS">
-    <img align="center" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=daniellg01&repo=IA_CATS_VS_DOGS&title_color=FF4949&text_color=ffffff&icon_color=FF4949&bg_color=1c1917&hide_border=true&locale=en" />
-  </a>
-</div>
-
 ## 📊 GitHub Stats
 
 <div align="center">
