@@ -24,48 +24,50 @@ A passionate Computer Science Engineer from Havana, Cuba, with a proven track re
 - 📫 Reach me at [lozanodevelopment01@gmail.com](mailto:lozanodevelopment01@gmail.com)
 - ⚡ Always learning and growing in tech
 
-## 🛠 Skills & Technologies
-
+## <p align="center">🛠️ Tech Arsenal & Skills</p>
 <div align="center">
-  <h3>Frontend Development</h3>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
 
-  <h3>Backend Development</h3>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<table width="100%">
+  <tr>
+    <td align="center">
+      <h4>🎨 Frontend</h4>
+      <img src="https://skillicons.dev/icons?i=react,angular,vue,ts,js,html,css,tailwind,sass&perline=5&theme=dark" alt="Frontend Skills"/>
+    </td>
+    <td align="center">
+      <h4>⚙️ Backend</h4>
+      <img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel,python&perline=5&theme=dark" alt="Backend Skills"/>
+      <br>
+      <img src="https://img.shields.io/badge/SugarCRM-E61718?style=for-the-badge&logo=sugarcrm&logoColor=white&theme=dark" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <h4>🗄️ Databases & Cloud</h4>
+      <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase,gcp,docker,redis&perline=4&theme=dark" alt="Database and Cloud Skills"/>
+    </td>
+    <td align="center">
+      <h4>🤖 AI & Machine Learning</h4>
+      <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv&perline=3&theme=dark" alt="AI/ML Skills"/>
+      <br>
+      <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white&theme=dark" />
+      <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white&theme=dark" />
+      <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white&theme=dark" />
+    </td>
+  </tr>
+</table>
 
-  <h3>Database & Cloud</h3>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
-
-  <h3>Tools & Others</h3>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </div>
 
-## 📊 GitHub Stats
-
+## <p align="center">📊 GitHub Analytics</p>
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=daniellg01&stroke=ffffff&background=1c1917&ring=FF4949&fire=FF4949&currStreakNum=ffffff&currStreakLabel=FF4949&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=daniellg01&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=1A1B27&title_color=00BFFF&icon_color=00BFFF&text_color=c9d1d9"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniellg01&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=1A1B27&title_color=00BFFF&text_color=c9d1d9"/>
 </div>
-
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=daniellg01&bg_color=1c1917&color=ffffff&line=FF4949&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=daniellg01&theme=tokyonight&hide_border=true&background=1A1B27&stroke=00BFFF&ring=00BFFF&fire=00BFFF&currStreakLabel=00BFFF" alt="GitHub Streak"/>
+</div>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=daniellg01&custom_title=Contribution%20Graph&bg_color=1A1B27&color=c9d1d9&line=00BFFF&point=ffffff&area_color=00BFFF&area=true&hide_border=true&theme=tokyo-night" alt="Contribution Graph"/>
 </div>
 
 ## 🤝 Connect With Me
